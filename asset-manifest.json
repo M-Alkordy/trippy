@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Trippy/static/css/main.8d537fd4.css",
-    "main.js": "/Trippy/static/js/main.1aba3614.js",
-    "static/media/3.jpg": "/Trippy/static/media/3.84d5235cc693e15661d6.jpg",
-    "static/media/2.jpg": "/Trippy/static/media/2.bbb41348bb839b9124d8.jpg",
-    "static/media/1.jpg": "/Trippy/static/media/1.509d4d795248ac9962f3.jpg",
-    "static/media/12.jpg": "/Trippy/static/media/12.257c5311e1cae5638aad.jpg",
-    "static/media/8.jpg": "/Trippy/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
-    "static/media/5.jpg": "/Trippy/static/media/5.46b372902997b3fbd648.jpg",
-    "static/media/6.jpg": "/Trippy/static/media/6.c405c8228d51cdef5d0f.jpg",
-    "static/media/night.jpg": "/Trippy/static/media/night.ac6d287d5d0014553b87.jpg",
-    "index.html": "/Trippy/index.html",
-    "main.8d537fd4.css.map": "/Trippy/static/css/main.8d537fd4.css.map",
-    "main.1aba3614.js.map": "/Trippy/static/js/main.1aba3614.js.map"
+    "main.css": "/trippy/static/css/main.8d537fd4.css",
+    "main.js": "/trippy/static/js/main.d1d55280.js",
+    "static/media/3.jpg": "/trippy/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/trippy/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/trippy/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/trippy/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/trippy/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/5.jpg": "/trippy/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/trippy/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/night.jpg": "/trippy/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/trippy/index.html",
+    "main.8d537fd4.css.map": "/trippy/static/css/main.8d537fd4.css.map",
+    "main.d1d55280.js.map": "/trippy/static/js/main.d1d55280.js.map"
   },
   "entrypoints": [
     "static/css/main.8d537fd4.css",
-    "static/js/main.1aba3614.js"
+    "static/js/main.d1d55280.js"
   ]
 }
